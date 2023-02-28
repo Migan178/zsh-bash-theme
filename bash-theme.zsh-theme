@@ -1,1 +1,1 @@
-PROMPT='[$USER@$(cat /etc/hostname) %c]$ '
+PROMPT='[$USER@$HOSTNAME %c]$ '
