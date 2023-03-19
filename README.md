@@ -4,8 +4,6 @@
 - this is bash theme available in zsh.
 
 ## Using
-- this example is using oh-my-zsh. therefore, oh-my-zsh must be on your computer.
-
 1. download
 
 ```sh
