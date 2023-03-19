@@ -4,6 +4,14 @@
 - this is bash theme available in zsh.
 
 ## Using
+### Not Oh My zsh
+
+```sh
+curl https://raw.githubusercontent.com/Migan178/zsh-bash-theme/main/bash-theme.zsh-theme -o ${ZDOTDIR:-$HOME}/bash-theme.zsh-theme
+echo "source ${ZDOTDIR:-$HOME}/bash-theme.zsh-theme" >> ${ZDOTDIR:-$HOME}/.zshrc
+```
+
+### Oh My Zsh
 1. download
 
 ```sh
